@@ -1,0 +1,6 @@
+@article{REPO361,
+    author = "Yang, Zhuoyi and Teng, Jiayan and Zheng, Wendi and Ding, Ming and Huang, Shiyu and Xu, Jiazheng and Yang, Yuanming and Hong, Wenyi and Zhang, Xiaohan and Feng, Guanyu and others",
+    journal = "arXiv preprint arXiv:2408.06072",
+    title = "{CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer}",
+    year = "2024"
+}
